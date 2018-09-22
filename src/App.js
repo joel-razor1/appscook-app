@@ -11,10 +11,11 @@ class App extends Component {
     return (
       <div>
         {/* <Gallery />
-        <Library />
+        
         <Marksheet />
+        <Modal />
          */}
-         <Modal />
+         <Library />
       </div>
     );
   }
